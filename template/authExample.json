@@ -1,0 +1,16 @@
+[
+  {
+    "name": "数据查看",
+    "key": "SALES:SALESCOLLECTWECHAT:VIEW:A",
+    "type": "api",
+    "authority": [],
+    "path": "/admin/sales/api/v1/schedule/notice/task/page,/admin/sales/api/v1/schedule/notice/teachers/page"
+  },
+  {
+    "name": "数据操作",
+    "key": "SALES:SALESCOLLECTWECHAT:OPERATION:A",
+    "type": "api",
+    "authority": [],
+    "path": "/admin/sales/api/v1/schedule/notice/task/create,/admin/sales/api/v1/schedule/notice/task,/admin/sales/api/v1/schedule/notice/send-batch,/admin/sales/api/v1/schedule/notice/send"
+  }
+]
